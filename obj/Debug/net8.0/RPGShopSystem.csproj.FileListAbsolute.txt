@@ -1,0 +1,14 @@
+C:\Users\dpcav\source\MyProjects\RPGShopSystem\RPGShopSystem\bin\Debug\net8.0\RPGShopSystem.exe
+C:\Users\dpcav\source\MyProjects\RPGShopSystem\RPGShopSystem\bin\Debug\net8.0\RPGShopSystem.deps.json
+C:\Users\dpcav\source\MyProjects\RPGShopSystem\RPGShopSystem\bin\Debug\net8.0\RPGShopSystem.runtimeconfig.json
+C:\Users\dpcav\source\MyProjects\RPGShopSystem\RPGShopSystem\bin\Debug\net8.0\RPGShopSystem.dll
+C:\Users\dpcav\source\MyProjects\RPGShopSystem\RPGShopSystem\bin\Debug\net8.0\RPGShopSystem.pdb
+C:\Users\dpcav\source\MyProjects\RPGShopSystem\RPGShopSystem\obj\Debug\net8.0\RPGShopSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpcav\source\MyProjects\RPGShopSystem\RPGShopSystem\obj\Debug\net8.0\RPGShopSystem.AssemblyInfoInputs.cache
+C:\Users\dpcav\source\MyProjects\RPGShopSystem\RPGShopSystem\obj\Debug\net8.0\RPGShopSystem.AssemblyInfo.cs
+C:\Users\dpcav\source\MyProjects\RPGShopSystem\RPGShopSystem\obj\Debug\net8.0\RPGShopSystem.csproj.CoreCompileInputs.cache
+C:\Users\dpcav\source\MyProjects\RPGShopSystem\RPGShopSystem\obj\Debug\net8.0\RPGShopSystem.dll
+C:\Users\dpcav\source\MyProjects\RPGShopSystem\RPGShopSystem\obj\Debug\net8.0\refint\RPGShopSystem.dll
+C:\Users\dpcav\source\MyProjects\RPGShopSystem\RPGShopSystem\obj\Debug\net8.0\RPGShopSystem.pdb
+C:\Users\dpcav\source\MyProjects\RPGShopSystem\RPGShopSystem\obj\Debug\net8.0\RPGShopSystem.genruntimeconfig.cache
+C:\Users\dpcav\source\MyProjects\RPGShopSystem\RPGShopSystem\obj\Debug\net8.0\ref\RPGShopSystem.dll
